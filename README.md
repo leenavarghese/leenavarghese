@@ -1,4 +1,4 @@
-# Hi there 👋 welcome to my Github! I'm a Cloud Engineering Enthusiast, Software Engineer, and a mom. I am a Cloud Computing student and I'm exploring Cloud Tech  ☁️
+# Hi there 👋 welcome to my Github! I'm a Cloud Engineering Enthusiast, Software Engineer, and a mom. I love exploring Cloud Tech  ☁️
 <!--
 **leenavarghese/leenavarghese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
