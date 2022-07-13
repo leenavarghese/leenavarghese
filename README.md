@@ -8,6 +8,6 @@
 - 💬 Ask me about Cloud Technologies
 - ✍️  In my free time, I enjoy cooking and spending time with family
 - 📝 Favorite editor: VS Code
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/leena-varghese-84a9669b) or [Email](leenaelisabeth@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leena-varghese-84a9669b/) or [Email](leenaelisabeth@gmail.com)
 
 Check out my repos ⬇️
